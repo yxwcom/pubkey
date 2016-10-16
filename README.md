@@ -1,6 +1,15 @@
 # pubkey
 
 
+In case you need
+
+## Main key
+
+Import & set owner trust to "Ultimate"
+
+
+
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Encryption Desktop 10.3.2 (Build 16349)
